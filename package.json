@@ -43,7 +43,8 @@
     "peerDependencies": {
         "react": ">=15.0.0",
         "react-native": "*",
-        "deprecated-react-native-prop-types":"*"
+        "deprecated-react-native-prop-types":"*",
+        "prop-types": "*"
     },
     "devDependencies": {
         "babel-eslint": "^8.2.2",
